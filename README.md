@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github files](https://github.com/EJMK18/FEM-blog-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site: Blog card](https://ejmk18.github.io/FEM-blog-card/))
 
 ### Built with
 
