@@ -66,6 +66,12 @@ h1 {
 	font-weight: var(--fw-800);
 }
 
+h1:hover,
+h1:active {
+	color: var(--primary-colour);
+	cursor: url(/pointer-black-hand.png), pointer;
+}
+
 .card {
 	display: grid;
 	align-items: center;
