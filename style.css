@@ -69,7 +69,7 @@ h1 {
 h1:hover,
 h1:active {
 	color: var(--primary-colour);
-	cursor: url(/pointer-black-hand.png), pointer;
+	cursor: url(pointer-black-hand.png), pointer;
 }
 
 .card {
